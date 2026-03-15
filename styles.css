@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: left;
+    margin: 2%;
+}
+.navbar{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid;
+    border-radius: 100px;
+}
+li{
+    list-style: none;
+}
+.opciones{
+    display: flex;
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(116, 5, 116);
+    font-weight: 800;
+    
+}
